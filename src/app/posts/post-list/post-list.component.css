@@ -11,24 +11,6 @@ mat-paginator {
   text-align: center;
 }
 
-.mat-expansion-panel.mat-expanded{
-  background-color: #f1f4f7;
-}
-
-.mat-expansion-panel.mat-expanded
-.mat-expansion-panel-header{
-  background: #bed4e6;
-  font-weight: 600;
-}
-.mat-expansion-panel.mat-expanded
-.mat-action-row {
-  background: #b9d1e5;
-}
-
-.mat-expansion-panel-header.mat-expanded,
-.mat-expansion-panel-header.mat-expanded:hover {
-  background-color: #ff4081;
-}
 
 mat-spinner {
   margin: auto;
