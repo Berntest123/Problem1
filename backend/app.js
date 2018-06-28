@@ -10,7 +10,8 @@ const userRoutes = require("./routes/user");
 
 const app = express();
 
-mongoose.connect("mongodb+srv://max:VLpzWlrIiaT5Z02n@cluster0-bf2w0.mongodb.net/node-angular?")
+// ENTER DATABASE INFO
+mongoose.connect("")
   .then(() => {
     console.log('Connected to database!')
   })
